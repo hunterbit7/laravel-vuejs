@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "products": "Products",
+    "preparation": "Preparation",
+    "choose_lang": "Choose Language",
+    "configuration": "Configurations",
+    "program": "Program",
+    "logout": "Log Out",
+    "my_products": "My Products",
+    "my_profile": "My Profile",
+    "about": "About"
+  },
+  "sidebar": {
+    "products": "Products here",
+    "users": "Users"
+  },
+  "login": {
+    "title": "Sign into your account!",
+    "email": "Email",
+    "errors": {
+      "email": "Please add a email",
+      "password": "Please add a password",
+      "password_1": "Email or password incorrect"
+    },
+    "password": "Password",
+    "forgot_password": "Forgot password?"
+  },
+  "page_not_found": {
+    "404": "404",
+    "not_found": "Page not Found",
+    "title": "The page you are trying to reach does not exist!",
+    "home_page": "Home Page"
+  },
+  "side_nav": {
+    "dashboard": "Dashboard",
+    "pages": "Pages",
+    "products": "Products",
+    "profile": "Profile",
+    "general": "General"
+  },
+  "my-products": {
+    "name": "Product Name",
+    "barcode": "Barcode",
+    "quantity": "Quantity",
+    "price": "Price",
+    "add": "Create New Product",
+    "actions": "Actions",
+    "popup": {
+      "title": "Create New Product",
+      "create": "Create",
+      "cancel": "Cancel",
+      "your_product": "Your Product Name",
+      "your_barcode": "Your Barcode",
+      "your_price": "Products Price",
+      "errors": {
+        "name": "You need to enter a product name",
+        "quantity": "You need to enter a quantity",
+        "barcode": "You need to enter a Barcode",
+        "price": "You need to enter a price"
+      },
+      "title_edit": "Edit your Product",
+      "save": "Save"
+    },
+    "delete": "Delete Selected",
+    "notifications": {
+      "product_created": "Product Created",
+      "product_updated": "Product Updated",
+      "product_deleted": "Product deleted successfully",
+      "product_deleted_selected": "Selected Products deleted"
+    },
+    "find": "Find in Table",
+    "continue": "Are you sure you want to delete this product?"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "clients": "Clients",
+    "sales": "Sales",
+    "performance": "Performance"
+  },
+  "my-profile": {
+    "name": "Name",
+    "email": "E-mail",
+    "title": "Profile"
+  }
+}

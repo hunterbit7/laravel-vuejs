@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "products": "Articoli",
+    "preparation": "Preparazione",
+    "choose_lang": "Scegli la lingua",
+    "configuration": "Configurazioni",
+    "program": "Programma",
+    "logout": "Esci",
+    "my_products": "I miei prodotti",
+    "my_profile": "Il mio profilo",
+    "about": "Di"
+  },
+  "sidebar": {
+    "products": "Prodotti qui",
+    "users": "Utenti"
+  },
+  "login": {
+    "title": "Accedi al tuo account!",
+    "email": "E-mail",
+    "errors": {
+      "email": "Si prega di aggiungere un'e-mail",
+      "password": "Si prega di aggiungere una password",
+      "password_1": "Email o password errate"
+    },
+    "password": "Parola d'ordine",
+    "forgot_password": "Ha dimenticato la password?"
+  },
+  "page_not_found": {
+    "404": "404",
+    "not_found": "Pagina non trovata",
+    "title": "La pagina che stai cercando di raggiungere non esiste!",
+    "home_page": "Pagina iniziale"
+  },
+  "side_nav": {
+    "dashboard": "Pannello",
+    "pages": "Pagine",
+    "products": "Prodotti",
+    "profile": "Profilo",
+    "general": "Generale"
+  },
+  "my-products": {
+    "name": "Nome Prodotto",
+    "barcode": "Barcode",
+    "quantity": "Quantità",
+    "price": "Prezzo",
+    "add": "Crea nuovo prodotto",
+    "actions": "Azioni",
+    "popup": {
+      "title": "Crea nuovo prodotto",
+      "create": "Crea",
+      "cancel": "Annulla",
+      "your_product": "Il nome del tuo prodotto",
+      "your_barcode": "Il tuo codice a barre",
+      "your_price": "Prezzo dei prodotti",
+      "errors": {
+        "name": "Devi inserire un nome di prodotto",
+        "quantity": "Devi inserire una quantità",
+        "barcode": "Devi inserire un codice a barre",
+        "price": "Devi inserire un prezzo"
+      },
+      "title_edit": "Modifica il tuo prodotto",
+      "save": "Salva"
+    },
+    "delete": "Elimina selezionato",
+    "notifications": {
+      "product_created": "Prodotto creato",
+      "product_updated": "Prodotto aggiornato",
+      "product_deleted": "Prodotto cancellato con successo",
+      "product_deleted_selected": "Prodotti selezionati eliminati"
+    },
+    "find": "Trova nella tabella",
+    "continue": "Sei sicuro di voler eliminare questo prodotto?"
+  },
+  "dashboard": {
+    "title": "Pannello",
+    "clients": "Clienti",
+    "sales": "I saldi",
+    "performance": "Prestazione"
+  },
+  "my-profile": {
+    "email": "E-mail",
+    "title": "Profilo"
+  }
+}
